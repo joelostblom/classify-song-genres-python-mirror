@@ -1,12 +1,11 @@
 #### General information about the project    ####
 #### All this will be visible on DataCamp.com ####
-title          : "projects classify song genres python"
+title          : "Classifying Song Genres"
 description    : >
-  A short description of the project, Max 100 characters. 
+  Apply machine learning methods in Python to classify tracks by genre using a dataset of song properties.
 long_description: |
-  A longer description of the project around 6 - 10 lines (where a line is 80 characters). Written in markdown.
-  Should mention and link to prerequisite courses.
-time_needed: "45 minutes" # "30/45/60 minutes".
+  Using a subset of the dataset comprised of two genres (Hip-Hop and Rock), we will train a classifier to distinguish between the two genres based only on track information derived from Echonest (now part of Spotify) data for each track. We will first make use of `pandas` and `seaborn` packages in Python for subsetting the data, aggregating information, and creating plots when exploring the data for obvious trends or factors we should be aware of when doing machine learning. Next, we will use of the `scikit-learn` package to predict whether we can correctly classify a song's genre based on features such as danceability, energy, acousticness, tempo etc. We will go over implementations of common algorithms such as PCA, logistic regression, decision trees and so forth.
+time_needed: "60 minutes" # "30/45/60 minutes".
 
 
 #### Metadata regarding course requirements and topics ####
