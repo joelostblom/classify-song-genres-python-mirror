@@ -1,4 +1,4 @@
-# Project - Classifying Song Genres
+# Project - Classifying Song Genres from Audio Data
 
 As a Project creator, you will work in the `develop` branch of the project. Here is the Project `develop` admin page (where you also can preview the project):
 
