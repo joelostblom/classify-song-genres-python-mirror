@@ -1,6 +1,6 @@
 #### General information about the project    ####
 #### All this will be visible on DataCamp.com ####
-title          : "Classifying Song Genres from Audio Data"
+title          : "Classify Song Genres from Audio Data"
 description    : >
   Rock or rap? Apply machine learning methods in Python to classify songs into genres.
 long_description: |
